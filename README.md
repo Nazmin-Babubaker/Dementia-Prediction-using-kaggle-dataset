@@ -2,7 +2,7 @@
 
 ## Abstract
 Dementia is a progressive neurological disorder that impairs memory, thinking,
- and behavior, posing a growing burden on aging populations worldwide [1]. There
+ and behavior, posing a growing burden on aging populations worldwide. There
  is no cure; we can only slow down the progression of the disease. This study exam
 ines gender-based differences in feature importance for predicting dementia using
  two datasets: the OASIS-1 and a publicly available Kaggle dementia prediction
